@@ -1,6 +1,8 @@
 # Alexandre Tomasi
-Welcome on my profile!
+Welcome on my profile! \
+![Hi](https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif)
 ## Student at 42 Lausanne
 I am currently a student at 42 Lausanne where I am learning to code, particularly in C and C++ and **i love that!**
+
 
 
