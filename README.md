@@ -2,9 +2,9 @@
 Welcome on my profile! \
 ![Hi](https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif)
 ## Student at 42 Lausanne
-I am currently a student at 42 Lausanne where I am learning to code, particularly in C and C++ and **i love that!** \
+<h2 align="center">I am currently a student at 42 Lausanne where I am learning to code, particularly in C and C++ and **i love that!** </h2>\
 [![atomasi's 42 stats](https://badge.mediaplus.ma/darkblue/atomasi)](https://github.com/oakoudad/badge42) \
-[![wakatime](https://wakatime.com/badge/user/694a8df1-9b48-4c64-9add-d81c83b82607.svg)](https://wakatime.com/@694a8df1-9b48-4c64-9add-d81c83b82607)
+[![wakatime](https://wakatime.com/badge/user/694a8df1-9b48-4c64-9add-d81c83b82607.svg)](https://wakatime.com/@694a8df1-9b48-4c64-9add-d81c83b82607) \
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crealex&theme=bear)
 
 
