@@ -4,7 +4,7 @@
   <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif">
 </div>
 <h2 align="center">Student at 42 Lausanne</h2>
-<p>I am currently a student at 42 Lausanne where I am learning to code, particularly in C and C++ and **i love that!** </p>
+<p align="center">I am currently a student at 42 Lausanne where I am learning to code, particularly in C and C++ and **i love that!** </p>
 <div align="center">
   <a href="https://github.com/oakoudad/badge42" align="center">
    <img src="https://badge.mediaplus.ma/darkblue/atomasi">
