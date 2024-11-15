@@ -1,5 +1,5 @@
 <h1 align="center">Alexandre Tomasi</h1>
-<p text-align="center">Welcome on my profile!</p>
+<p align="center">Welcome on my profile!</p>
 <div align="center">
   <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif">
 </div>
