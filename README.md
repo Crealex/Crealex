@@ -1,5 +1,5 @@
-# Alexandre Tomasi
-Welcome on my profile! \
+<h1 align="center">Alexandre Tomasi</h1>
+<p>Welcome on my profile!</p>
 <div align="center">
   <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif">
 </div>
