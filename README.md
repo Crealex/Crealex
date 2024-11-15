@@ -5,7 +5,7 @@ Welcome on my profile! \
 </div>
 <h2 align="center">Student at 42 Lausanne</h2>
 <p>I am currently a student at 42 Lausanne where I am learning to code, particularly in C and C++ and **i love that!** </p>
-div align="center">
+<div align="center">
   <a href="https://github.com/oakoudad/badge42">
     <img src="https://badge.mediaplus.ma/darkblue/atomasi">
   </a>
