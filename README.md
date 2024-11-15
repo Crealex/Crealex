@@ -6,8 +6,11 @@
 <h2 align="center">Student at 42 Lausanne</h2>
 <p align="center">I am currently a student at 42 Lausanne where I am learning to code, particularly in C and C++ and **i love that!** </p>
 <div align="center">
-  <a href="https://github.com/oakoudad/badge42" align="center">
-   <img src="https://badge.mediaplus.ma/darkblue/atomasi">
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/darkblue/atomasi">
+  </a>
+</div>
+<div align="center">
   <a href="https://wakatime.com/@694a8df1-9b48-4c64-9add-d81c83b82607">
     <img src="https://wakatime.com/badge/user/694a8df1-9b48-4c64-9add-d81c83b82607.svg">
   </a>
