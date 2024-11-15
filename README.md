@@ -1,7 +1,7 @@
 # Alexandre Tomasi
 Welcome on my profile! \
 <div align="center">
-  <a href="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif">
+  <a src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif">
 </div>
 <center>Student at 42 Lausanne</center>
 I am currently a student at 42 Lausanne where I am learning to code, particularly in C and C++ and **i love that!** \
