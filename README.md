@@ -20,4 +20,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crealex&theme=bear">
 </div>
 
+## Snake Game from Contributions
+![snake gif](https://github.com/Crealex/Crealex/blob/main/dist/snake.svg)
 
