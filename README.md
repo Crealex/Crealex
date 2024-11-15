@@ -1,6 +1,6 @@
 # Alexandre Tomasi
 Welcome on my profile! \
-<div align="center"> ![Hi](https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif) </div>
+![Hi](https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif)
 <h2 align="center"> Student at 42 Lausanne </h2>
 I am currently a student at 42 Lausanne where I am learning to code, particularly in C and C++ and **i love that!** \
 [![atomasi's 42 stats](https://badge.mediaplus.ma/darkblue/atomasi)](https://github.com/oakoudad/badge42) \
