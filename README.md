@@ -21,5 +21,5 @@
 </div>
 
 ## Snake Game from Contributions
-![snake gif](https://github.com/Crealex/Crealex/blob/main/dist/snake.svg)
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
