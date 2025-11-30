@@ -7,9 +7,22 @@
 <p align="center">I am currently a student at 42 Lausanne where I am learning to code, particularly in C and C++</p>
 <div align="center">
   <a href="https://github.com/oakoudad/badge42">
-    <img src="https://badge.mediaplus.ma/darkblue/atomasi">
+    <img src="https://badge.mediaplus.ma/landscapes/atomasi?1337Badge=off&UM6P=off" alt="atomasi's 42 stats" />
   </a>
 </div>
+
+## Tech stack
+
+### Languages
+
+### Frameworks
+
+### Librairies
+
+### Tools
+
+
+## Profile Statistics
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crealex&theme=bear">
@@ -20,12 +33,15 @@
   </a>
 </div>
 
-## Snake Game from Contributions
+### Snake Game from Contributions
 ![Snake animation](https://raw.githubusercontent.com/crealex/crealex/output/github-contribution-grid-snake-dark.svg)
 
-## Activity graph
+### Activity graph
 [![Crealex's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Crealex&theme=dracula)](https://github.com/crealex)
 
-## My trophies
+### My trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Crealex&theme=dracula)
+
+### Github streaks
+[![GitHub Streak](https://streak-stats.demolab.com/?user=crealex&theme=dracula)](https://git.io/streak-stats)
 
