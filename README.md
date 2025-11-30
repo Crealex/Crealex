@@ -25,8 +25,11 @@
 ## Profile Statistics
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crealex&theme=bear">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crealex&theme=dracula">
 </div>
+
+### Waktime log time
+
 <div align="center">
   <a href="https://wakatime.com/@694a8df1-9b48-4c64-9add-d81c83b82607">
     <img src="https://wakatime.com/badge/user/694a8df1-9b48-4c64-9add-d81c83b82607.svg">
