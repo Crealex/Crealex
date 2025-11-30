@@ -4,7 +4,7 @@
   <img src="https://media1.tenor.com/m/pvFJwncehzIAAAAC/hello-there-private-from-penguins-of-madagascar.gif">
 </div>
 <h2 align="center">Student at 42 Lausanne</h2>
-<p align="center">I am currently a student at 42 Lausanne where I am learning to code, particularly in C and C++ and **i love that!** </p>
+<p align="center">I am currently a student at 42 Lausanne where I am learning to code, particularly in C and C++</p>
 <div align="center">
   <a href="https://github.com/oakoudad/badge42">
     <img src="https://badge.mediaplus.ma/darkblue/atomasi">
@@ -23,5 +23,9 @@
 ## Snake Game from Contributions
 ![Snake animation](https://raw.githubusercontent.com/crealex/crealex/output/github-contribution-grid-snake-dark.svg)
 
+## Activity graph
+[![Crealex's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Crealex&theme=dracula)](https://github.com/crealex)
 
+## My trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=Crealex&theme=dracula)
 
