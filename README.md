@@ -46,4 +46,4 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=Crealex&theme=dracula)
 
 ### Github streaks
-[![GitHub Streak](https://github-streak-stats-three.vercel.app?user=Crealex&theme=darcula&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-streak-stats-three.vercel.app?user=Crealex&theme=dracula&hide_border=true)](https://git.io/streak-stats)
